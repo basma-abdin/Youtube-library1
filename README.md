@@ -16,8 +16,8 @@ $ npm install
 $ npm start
 ```
 Frontend:
-# Prerequisites
-  - Have youtube API KEY from
+ Prerequisites
+  - Have youtube API KEY 
   - Set your key in Frontend/youtube-library/src/services/http-requests.tsx
 ```Sh
 $ cd Frontend/youtube-library
